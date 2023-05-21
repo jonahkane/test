@@ -1,4 +1,4 @@
-import { Session } from "./session.model";
+import { Session } from "../../../server/models/Session.js";
 const defaultSession = {
     leadInfo: {
         sessionLead: '',
